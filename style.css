@@ -1,0 +1,20 @@
+a{
+    color: white;
+    text-decoration: none;
+}
+
+body{
+    margin:0;
+}
+
+nav{
+    background-color: black;
+    display: none;
+    height: 40px;
+}
+
+.ativo{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
